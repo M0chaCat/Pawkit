@@ -1,0 +1,13 @@
+{
+    "repositoryName": "Test Repo",
+    "repositoryDescription": "Repo that just contains TestPaw",
+    "repositoryUpdateURL": "https://rawcdn.githack.com/M0chaCat/Pawkit/refs/heads/main/testrepo.json",
+    "apps": [
+        {
+            "pawName": "PawKit",
+            "version": "1.0.0",
+            "description": "PawKit is a sample Paw to test PawKit",
+            "downloadURL": "https://rawcdn.githack.com/M0chaCat/Pawkit/refs/heads/main/PawKit.paw"
+        }
+    ]
+}

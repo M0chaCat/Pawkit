@@ -1,0 +1,19 @@
+{
+    "repositoryName": "PawApps Repository",
+    "repositoryDescription": "A collection of applications available for installation using PawKit.",
+    "repositoryUpdateURL": "https://example.com/repository",
+    "apps": [
+        {
+            "pawName": "MyApp",
+            "version": "1.0.0",
+            "description": "MyApp is a sample application that demonstrates the use of PawKit.",
+            "downloadURL": "https://example.com/downloads/myapp.Paw"
+        },
+        {
+            "pawName": "AnotherApp",
+            "version": "2.3.1",
+            "description": "AnotherApp is a productivity tool to help you manage your tasks.",
+            "downloadURL": "https://example.com/downloads/anotherapp.Paw"
+        }
+    ]
+}

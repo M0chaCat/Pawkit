@@ -1,0 +1,15 @@
+{
+    "appName": "myapp",
+    "version": "1.0.0",
+    "PawKitVersion": "1",
+    "author": "MochaCat",
+    "description": "myapp is a sample application",
+    "website": "https://example.com",
+    "license": "MIT",
+    "Github": "https://example.com",
+    "deletePaths": [
+            "@documents/log.txt",
+            "@applicationSupport/MyApp/temp.zip"
+        ]
+}
+
